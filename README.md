@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ranger_Oro</h1>
 <h3 align="center">A Minecraft Paper plugin beginner developer</h3>
 
-- 🔭 I’m currently working on [EarthCubeMC](https://www.earthcubemc.net)
+- 🔭 I’m currently working on Eldoria Network
 
 - 🌱 I’m currently learning **Java and frontend development**
 
