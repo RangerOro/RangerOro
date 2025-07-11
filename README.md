@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ranger_Oro</h1>
 <h3 align="center">A Minecraft Paper plugin beginner developer</h3>
-<p class="text-muted text-center">and also game developer, but I'm still learning!</p>
+<p align="center"><span style="color:gray">and also game developer, but I'm still learning!</span></p>
 
 - 🔭 I’m currently working on a game 👀
 
